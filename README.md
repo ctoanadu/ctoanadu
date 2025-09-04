@@ -1,8 +1,3 @@
-# 👋 
-**Machine Learning | AI | Python | Open Source | **
-
----
-
 ## 🔭 
 **Machine Learning & AI developer**, building cutting-edge solutions and contributing to open-source projects. I love exploring **Python**, **Deep Learning**, and **Blockchain technologies**.  
 
